@@ -1,3 +1,4 @@
+import Foundation
 import SwiftUI
 
 let lastRunDate = Date1 {
